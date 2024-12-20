@@ -1,0 +1,21 @@
+{
+	"name": "winter-vibes",
+	"displayName": "Winter Vibes",
+	"description": "A VSCode theme for calming and winter vibes.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Winter Vibes",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Winter Vibes-color-theme.json"
+			}
+		]
+	}
+}
