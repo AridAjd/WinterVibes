@@ -2,7 +2,7 @@
 	"name": "winter-vibes",
 	"displayName": "Winter Vibes",
 	"description": "A VSCode theme for calming and winter vibes.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "AridAjd",
 	"repository": "https://github.com/AridAjd/WinterVibes",
 	"engines": {
